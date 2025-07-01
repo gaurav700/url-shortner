@@ -13,8 +13,7 @@ A simple and efficient URL shortener service built with Node.js, Express, and SQ
 - 🔒 SHA-256 based URL generation
 
 ## Architecture Overview
-
-![Architecture Diagram](https://excalidraw.com/#json=7KOMtpb2lfjODoLroT72v,IHrix_Tav_j8-0Z_SZlxlQ)
+https://excalidraw.com/#json=7KOMtpb2lfjODoLroT72v,IHrix_Tav_j8-0Z_SZlxlQ
 
 *Note: Replace the above link with your actual Excalidraw diagram*
 
@@ -235,10 +234,6 @@ curl -X POST http://localhost:3000/generate \
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
